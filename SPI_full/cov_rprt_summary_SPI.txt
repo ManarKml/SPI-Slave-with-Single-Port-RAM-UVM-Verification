@@ -1,0 +1,18 @@
+Recursive Coverage Report Summary Data by DU
+
+=================================================================================
+=== Design Unit: work.WRAPPER
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                      12        12         0   100.00%
+    Branches                        48        48         0   100.00%
+    Directives                      12        12         0   100.00%
+    FSM States                       5         5         0   100.00%
+    FSM Transitions                  8         8         0   100.00%
+    Statements                      52        52         0   100.00%
+    Toggles                        302       302         0   100.00%
+
+
+Total Coverage By Design Unit (filtered view): 100.00%
+
